@@ -1,0 +1,4 @@
+name: "SpringVlogdata"
+appmap_dir: "tmp/appmap"
+packages:
+- path: "com.example.SpringVlogdata"
